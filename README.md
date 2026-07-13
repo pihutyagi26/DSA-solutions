@@ -67,9 +67,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/pihutyagi26/DSA-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/pihutyagi26/DSA-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
