@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/pihutyagi26/DSA-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
