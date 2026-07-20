@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1260-shift-2d-grid](https://github.com/pihutyagi26/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pihutyagi26/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/pihutyagi26/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/pihutyagi26/DSA-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pihutyagi26/DSA-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
