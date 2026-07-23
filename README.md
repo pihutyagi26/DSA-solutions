@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/pihutyagi26/DSA-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/pihutyagi26/DSA-solutions/tree/master/1260-shift-2d-grid) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/pihutyagi26/DSA-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/0213-house-robber-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pihutyagi26/DSA-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
