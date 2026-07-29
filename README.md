@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pihutyagi26/DSA-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pihutyagi26/DSA-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pihutyagi26/DSA-solutions/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pihutyagi26/DSA-solutions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihutyagi26/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
