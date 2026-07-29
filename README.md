@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pihutyagi26/DSA-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/pihutyagi26/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihutyagi26/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pihutyagi26/DSA-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/pihutyagi26/DSA-solutions/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
