@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihutyagi26/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pihutyagi26/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pihutyagi26/DSA-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pihutyagi26/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihutyagi26/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pihutyagi26/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pihutyagi26/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pihutyagi26/DSA-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pihutyagi26/DSA-solutions/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihutyagi26/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
