@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/pihutyagi26/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/pihutyagi26/DSA-solutions/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pihutyagi26/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/pihutyagi26/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
