@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pihutyagi26/DSA-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/pihutyagi26/DSA-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pihutyagi26/DSA-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/pihutyagi26/DSA-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pihutyagi26/DSA-solutions/tree/master/0283-move-zeroes) |
