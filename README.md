@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pihutyagi26/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/pihutyagi26/DSA-solutions/tree/master/0257-binary-tree-paths) |
+| [1021-remove-outermost-parentheses](https://github.com/pihutyagi26/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pihutyagi26/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/pihutyagi26/DSA-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pihutyagi26/DSA-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pihutyagi26/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/pihutyagi26/DSA-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/pihutyagi26/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pihutyagi26/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pihutyagi26/DSA-solutions/tree/master/0146-lru-cache) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pihutyagi26/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
