@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/pihutyagi26/DSA-solutions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/pihutyagi26/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0242-valid-anagram) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pihutyagi26/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pihutyagi26/DSA-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/pihutyagi26/DSA-solutions/tree/master/0146-lru-cache) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pihutyagi26/DSA-solutions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/pihutyagi26/DSA-solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
@@ -457,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pihutyagi26/DSA-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
