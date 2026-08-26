@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pihutyagi26/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/pihutyagi26/DSA-solutions/tree/master/0257-binary-tree-paths) |
+| [0844-backspace-string-compare](https://github.com/pihutyagi26/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/pihutyagi26/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pihutyagi26/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/pihutyagi26/DSA-solutions/tree/master/1927-sum-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pihutyagi26/DSA-solutions/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/pihutyagi26/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pihutyagi26/DSA-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pihutyagi26/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/pihutyagi26/DSA-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0682-baseball-game](https://github.com/pihutyagi26/DSA-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/pihutyagi26/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/pihutyagi26/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pihutyagi26/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/pihutyagi26/DSA-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/pihutyagi26/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/pihutyagi26/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pihutyagi26/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
