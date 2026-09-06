@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/pihutyagi26/DSA-solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/pihutyagi26/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/pihutyagi26/DSA-solutions/tree/master/0257-binary-tree-paths) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/pihutyagi26/DSA-solutions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/pihutyagi26/DSA-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/pihutyagi26/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
