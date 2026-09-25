@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/pihutyagi26/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pihutyagi26/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pihutyagi26/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/pihutyagi26/DSA-solutions/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/pihutyagi26/DSA-solutions/tree/master/1927-sum-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pihutyagi26/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/pihutyagi26/DSA-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pihutyagi26/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pihutyagi26/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pihutyagi26/DSA-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pihutyagi26/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pihutyagi26/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pihutyagi26/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pihutyagi26/DSA-solutions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pihutyagi26/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pihutyagi26/DSA-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1096-brace-expansion-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/pihutyagi26/DSA-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/pihutyagi26/DSA-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pihutyagi26/DSA-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pihutyagi26/DSA-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/pihutyagi26/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pihutyagi26/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/pihutyagi26/DSA-solutions/tree/master/1544-make-the-string-great) |
 ## Divide and Conquer
 |  |
@@ -391,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/pihutyagi26/DSA-solutions/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/pihutyagi26/DSA-solutions/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pihutyagi26/DSA-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
